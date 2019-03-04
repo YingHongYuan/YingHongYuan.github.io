@@ -1,6 +1,6 @@
 # Welcome, world
 
-# YingHong Yuan
+### I am YingHong Yuan
 ### DMA Student of San Jose State University
 ### This is my portfolio site.
 
