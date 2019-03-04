@@ -1,6 +1,8 @@
-# YingHongYuan.githup.io
+# Welcome, world
 
-### I am an artist. This is my portfolio site.
+# Iam YingHong Yuan
+### DMA Student of San Jose State University
+### This is my portfolio site.
 
 This is a *README* file for my repository. It is written using **Markdown**.
 
