@@ -1,3 +1,10 @@
+header img {
+  display: inline-block;
+  height: 120px;
+  vertical-align: top;
+  width: 120px;
+}
+
 body {
   margin: 30px auto;
   max-width: 1000px;
