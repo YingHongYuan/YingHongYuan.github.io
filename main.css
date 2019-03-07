@@ -1,9 +1,4 @@
-header img {
-  display: inline-block;
-  height: 120px;
-  vertical-align: top;
-  width: 120px;
-}
+
 
 body {
   margin: 30px auto;
@@ -12,6 +7,13 @@ body {
   line-height: 2;
   padding: 50px 40px;
   color: #566b78
+}
+
+header img {
+  display: inline-block;
+  height: 120px;
+  vertical-align: top;
+  width: 120px;
 }
 
 h1 {
