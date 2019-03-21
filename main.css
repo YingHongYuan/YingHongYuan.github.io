@@ -24,11 +24,7 @@ p {
 }
 
 .blue {
-  background-color: blue;
-}
-
-.shadow {
-  box-shadow: 10px, 10px, 10px, grey;
+  background-color: pink;
 }
 
 .porfolio-item {
@@ -47,7 +43,7 @@ p {
   margin: 60px;
   padding: 60px;
   border: 10px dotted #ffffff;
-  background-color: red;
+  background-color: gold;
   background-image: linear-gradient(blue, white)；
 }
 
