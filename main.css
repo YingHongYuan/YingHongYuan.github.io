@@ -1,6 +1,6 @@
 body {
   max-width: 800px;
-  margin: 10px auto 20px auto;
+  margin: 50px auto 200px auto;
   color: #dddddd;
 }
 
@@ -9,7 +9,7 @@ h1 {
 }
 
 p {
-  color: #00BA90;
+  color: #dddddd;
 }
 
 .main-content {
@@ -23,12 +23,8 @@ p {
   text-align: center;
 }
 
-.black {
-  background-color: black;
-}
-
-.shadow {
-  box-shadow: 10px, 10px, 10px, grey;
+.blue {
+  background-color: blue;
 }
 
 .shadow {
@@ -39,11 +35,8 @@ p {
   margin: 60px;
   padding: 60px;
   border: 10px dotted #ffffff;
-  background-color: blue;
+  background-color: 00BA90;
   /* color: #333333; */
-}
-#toggle-text {
-  color: black;
 }
 
 .subheading p {
@@ -54,8 +47,8 @@ p {
   margin: 60px;
   padding: 60px;
   border: 10px dotted #ffffff;
-  background-color: p {
-    color: #004F62;
+  background-color: purple;
+  background-image: linear-gradient(blue, white)；
 }
 
 h1 {
@@ -64,6 +57,5 @@ h1 {
 
 
 #toggle-text {
-  color: p {
-    color: #004F62;
+  color: 00BA90;
 }
