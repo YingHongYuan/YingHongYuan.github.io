@@ -9,7 +9,7 @@ h1 {
 }
 
 p {
-  color: #004F62;
+  color: #black;
 }
 
 .main-content {
@@ -61,10 +61,8 @@ h1 {
   text-shadow: 1px 1px 3px white;
 }
 
-a {
-  color: 004F62;
-}
 
 #toggle-text {
-  color: black;
+  color: p {
+    color: #004F62;
 }
