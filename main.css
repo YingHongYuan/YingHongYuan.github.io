@@ -54,7 +54,8 @@ p {
   margin: 60px;
   padding: 60px;
   border: 10px dotted #ffffff;
-  background-color: black;
+  background-color: p {
+    color: #004F62;
 }
 
 h1 {
