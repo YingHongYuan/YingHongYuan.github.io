@@ -31,6 +31,10 @@ p {
   box-shadow: 10px, 10px, 10px, grey;
 }
 
+.shadow {
+  box-shadow: 10px, 10px, 10px, grey;
+}
+
 .porfolio-item {
   margin: 60px;
   padding: 60px;
