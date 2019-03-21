@@ -9,7 +9,7 @@ h1 {
 }
 
 p {
-  color: #yellow;
+  color: #black;
 }
 
 .main-content {
@@ -23,8 +23,12 @@ p {
   text-align: center;
 }
 
-.blue {
-  background-color: pink;
+.black {
+  background-color: black;
+}
+
+.shadow {
+  box-shadow: 10px, 10px, 10px, grey;
 }
 
 .porfolio-item {
@@ -33,6 +37,9 @@ p {
   border: 10px dotted #ffffff;
   background-color: blue;
   /* color: #333333; */
+}
+#toggle-text {
+  color: black;
 }
 
 .subheading p {
@@ -43,15 +50,13 @@ p {
   margin: 60px;
   padding: 60px;
   border: 10px dotted #ffffff;
-  background-color: gold;
-  background-image: linear-gradient(blue, white)；
+  background-color: black;
 }
 
 h1 {
   text-shadow: 1px 1px 3px white;
 }
 
-
 #toggle-text {
-  color: yellow;
+  color: black;
 }
