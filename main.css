@@ -35,7 +35,7 @@ p {
   margin: 60px;
   padding: 60px;
   border: 10px dotted #ffffff;
-  background-color: pink;
+  background-color: blue;
   /* color: #333333; */
 }
 
@@ -47,7 +47,7 @@ p {
   margin: 60px;
   padding: 60px;
   border: 10px dotted #ffffff;
-  background-color: purple;
+  background-color: red;
   background-image: linear-gradient(blue, white)；
 }
 
