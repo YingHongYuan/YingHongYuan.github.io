@@ -51,7 +51,6 @@ p {
 .subheading {
   margin: 60px;
   padding: 60px;
-  border: 10px dotted #ffffff;
   background-color: #386D57;
   background-image: linear-gradient(blue, white)；
 }
