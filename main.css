@@ -1,7 +1,7 @@
 body {
   max-width: 800px;
   margin: 50px auto 200px auto;
-  color: #dddddd;
+  color: #29386D;
 }
 
 h1 {
@@ -9,7 +9,7 @@ h1 {
 }
 
 p {
-  color: #dddddd;
+  color: #29386D;
 }
 
 /* mouse over link */
@@ -18,7 +18,7 @@ p {
         }
 
 .main-content {
-  background-color: #333333;
+  background-color: #29386D;
   padding: 20px;
 }
 
@@ -40,10 +40,8 @@ p {
   margin: 60px;
   padding: 60px;
   border: 10px #ffffff;
-<<<<<<< HEAD
-  background-color: pink;
-=======
-  background-color: #00BA90;
+  background-color: #386D57;
+  text-align: center;
 }
 
 .subheading p {
@@ -54,12 +52,13 @@ p {
   margin: 60px;
   padding: 60px;
   border: 10px dotted #ffffff;
-  background-color: #00BA90;
+  background-color: #386D57;
   background-image: linear-gradient(blue, white)；
 }
 
 h1 {
   text-shadow: 1px 1px 3px white;
+  text-align: center;
 }
 
 
