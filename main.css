@@ -54,7 +54,7 @@ p {
   margin: 60px;
   padding: 60px;
   border: 10px dotted #ffffff;
-  background-color: purple;
+  background-color: #00BA90;
   background-image: linear-gradient(blue, white)；
 }
 
@@ -64,9 +64,5 @@ h1 {
 
 
 #toggle-text {
-<<<<<<< HEAD
-  color: red;
-=======
   color: #00BA90;
->>>>>>> 03d49fabd0e0b8ad6e3660b17db187720aea2fe8
 }
