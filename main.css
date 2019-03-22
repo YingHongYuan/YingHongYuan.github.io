@@ -5,7 +5,11 @@ body {
 }
 
 h1 {
-  color: pink;
+  color: Green;
+}
+
+h3 {
+  color: yellow;
 }
 
 p {
