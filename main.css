@@ -12,6 +12,11 @@ p {
   color: #dddddd;
 }
 
+/* mouse over link */
+      a:hover {
+          color: hotpink;
+        }
+
 .main-content {
   background-color: #333333;
   padding: 20px;
@@ -34,9 +39,11 @@ p {
 .porfolio-item {
   margin: 60px;
   padding: 60px;
-  border: 10px dotted #ffffff;
+  border: 10px #ffffff;
+<<<<<<< HEAD
   background-color: pink;
-  /* color: #333333; */
+=======
+  background-color: #00BA90;
 }
 
 .subheading p {
@@ -57,5 +64,9 @@ h1 {
 
 
 #toggle-text {
+<<<<<<< HEAD
   color: red;
+=======
+  color: #00BA90;
+>>>>>>> 03d49fabd0e0b8ad6e3660b17db187720aea2fe8
 }
