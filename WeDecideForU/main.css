@@ -45,14 +45,14 @@ p {
 }
 
 .square3 {
-  margin: 60px;
-  padding: 60px;
+  margin: 20px;
+  padding: 20px;
   border: 10px red;
   background-color: red;
   text-align: center;
 }
 
-.subheading p {
+.subheading1 p {
   font-family: "Lucida Console", monospace;
 }
 
