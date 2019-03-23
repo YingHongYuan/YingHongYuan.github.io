@@ -9,7 +9,7 @@ h1 {
 }
 
 h3 {
-  color: yellow;
+  color:#283387;
 }
 
 p {
@@ -56,7 +56,7 @@ p {
   margin: 60px;
   padding: 60px;
   background-color: #386D57;
-  background-image: linear-gradient(blue, white)；
+  background-image: linear-gradient；
 }
 
 h1 {
