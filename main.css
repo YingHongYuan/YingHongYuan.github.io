@@ -32,7 +32,23 @@ p {
   box-shadow: 10px, 10px, 10px, grey;
 }
 
-.porfolio-item {
+.square 1 {
+  margin: 60px;
+  padding: 60px;
+  border: 10px #ffffff;
+  background-color: #386D57;
+  text-align: center;
+}
+
+.square 2 {
+  margin: 60px;
+  padding: 60px;
+  border: 10px #ffffff;
+  background-color: #386D57;
+  text-align: center;
+}
+
+.square 3 {
   margin: 60px;
   padding: 60px;
   border: 10px #ffffff;
