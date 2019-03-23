@@ -56,13 +56,19 @@ p {
   font-family: "Lucida Console", monospace;
 }
 
-.subheading {
+.subheading1 {
+  margin: 60px;
+  padding: 60px;
+  background-color: White;
+  background-image: linear-gradient(black, white)；
+}
+
+.subheading2 {
   margin: 60px;
   padding: 60px;
   background-color: White;
   background-image: linear-gradient(blue, white)；
 }
-
 h1 {
   text-shadow: 1px 1px 3px black;
 }
