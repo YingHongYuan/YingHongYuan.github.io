@@ -1,0 +1,70 @@
+body {
+  max-width: 800px;
+  margin: 50px auto 200px auto;
+  color: #29386D;
+}
+
+h1 {
+  color: Green;
+}
+
+h3 {
+  color:#283387;
+}
+
+p {
+  color: #29386D;
+}
+
+/* mouse over link */
+      a:hover {
+          color: hotpink;
+        }
+
+.main-content {
+  background-color: #29386D;
+  padding: 20px;
+}
+
+.heading {
+  padding: 100px auto;
+  margin: 60px;
+  text-align: center;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.shadow {
+  box-shadow: 10px, 10px, 10px, grey;
+}
+
+.porfolio-item {
+  margin: 60px;
+  padding: 60px;
+  border: 10px #ffffff;
+  background-color: #386D57;
+  text-align: center;
+}
+
+.subheading p {
+  font-family: "Lucida Console", monospace;
+}
+
+.subheading {
+  margin: 60px;
+  padding: 60px;
+  background-color: #386D57;
+  background-image: linear-gradient；
+}
+
+h1 {
+  text-shadow: 1px 1px 3px white;
+  text-align: center;
+}
+
+
+#toggle-text {
+  color: #00BA90;
+}
