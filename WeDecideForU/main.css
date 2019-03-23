@@ -57,15 +57,15 @@ p {
 }
 
 .subheading1 {
-  margin: 60px;
-  padding: 60px;
+  margin: 10px;
+  padding: 10px;
   background-color: White;
   background-image: linear-gradient(black, white)；
 }
 
 .subheading2 {
-  margin: 60px;
-  padding: 60px;
+  margin: 10px;
+  padding: 10px;
   background-color: White;
   background-image: linear-gradient(blue, white)；
 }
