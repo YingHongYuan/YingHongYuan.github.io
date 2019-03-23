@@ -5,21 +5,12 @@ body {
 }
 
 h1 {
-  color: Green;
-}
-
-h3 {
-  color:#283387;
+  color: yellow;
 }
 
 p {
   color: #29386D;
 }
-
-/* mouse over link */
-      a:hover {
-          color: hotpink;
-        }
 
 .main-content {
   background-color: #29386D;
