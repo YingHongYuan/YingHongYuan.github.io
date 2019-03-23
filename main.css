@@ -28,7 +28,7 @@ p {
   box-shadow: 10px, 10px, 10px, grey;
 }
 
-.square 1 {
+.square1 {
   margin: 60px;
   padding: 60px;
   border: 10px yellow;
@@ -36,7 +36,7 @@ p {
   text-align: left;
 }
 
-.square 2 {
+.square2 {
   margin: 60px;
   padding: 60px;
   border: 20px blue;
@@ -44,7 +44,7 @@ p {
   text-align: center;
 }
 
-.square 3 {
+.square3 {
   margin: 60px;
   padding: 60px;
   border: 10px red;
