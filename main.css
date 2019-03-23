@@ -8,18 +8,9 @@ h1 {
   color: Green;
 }
 
-h3 {
-  color:#283387;
-}
-
 p {
   color: #29386D;
 }
-
-/* mouse over link */
-      a:hover {
-          color: hotpink;
-        }
 
 .main-content {
   background-color: #29386D;
@@ -30,6 +21,7 @@ p {
   padding: 100px auto;
   margin: 60px;
   text-align: center;
+  background-color: red;
 }
 
 .blue {
