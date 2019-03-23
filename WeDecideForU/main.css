@@ -1,5 +1,6 @@
 body {
-  max-width: 800px;
+  max-width: 1000px;
+  max-height: 1000px；
   margin: 50px auto 200px auto;
   color: #29386D;
 }
@@ -60,11 +61,11 @@ p {
   margin: 60px;
   padding: 60px;
   background-color: White;
-  background-image: linear-gradient；
+  background-image: square；
 }
 
 h1 {
-  text-shadow: 1px 1px 3px white;
+  text-shadow: 1px 1px 1px black;
   text-align: center;
 }
 
