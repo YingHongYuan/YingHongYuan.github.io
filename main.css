@@ -5,7 +5,7 @@ body {
 }
 
 h1 {
-  color: Green;
+  color: White;
 }
 
 p {
@@ -21,7 +21,7 @@ p {
   padding: 100px auto;
   margin: 60px;
   text-align: center;
-  background-color: red;
+  background-color: Black;
 }
 
 .blue {
