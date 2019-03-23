@@ -24,10 +24,6 @@ p {
   background-color: Black;
 }
 
-.blue {
-  background-color: blue;
-}
-
 .shadow {
   box-shadow: 10px, 10px, 10px, grey;
 }
@@ -35,24 +31,24 @@ p {
 .square 1 {
   margin: 60px;
   padding: 60px;
-  border: 10px #ffffff;
-  background-color: #386D57;
+  border: 10px yellow;
+  background-color: yellow;
   text-align: left;
 }
 
 .square 2 {
   margin: 60px;
   padding: 60px;
-  border: 10px #ffffff;
-  background-color: #386D57;
+  border: 20px blue;
+  background-color: blue;
   text-align: center;
 }
 
 .square 3 {
   margin: 60px;
   padding: 60px;
-  border: 10px #ffffff;
-  background-color: #386D57;
+  border: 10px red;
+  background-color: red;
   text-align: right;
 }
 
@@ -74,5 +70,5 @@ h1 {
 
 
 #toggle-text {
-  color: #00BA90;
+  color: Black;
 }
