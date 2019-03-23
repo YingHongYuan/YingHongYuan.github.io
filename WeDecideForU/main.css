@@ -1,9 +1,5 @@
 body {
-<<<<<<< HEAD
-=======
-  max-width: 1000px;
-  max-height: 1000px；
->>>>>>> 8765ce496fb2e6f24f277db7c025af0b7cd30509
+  max-width: 800px;
   margin: 50px auto 200px auto;
   color: #29386D;
 }
@@ -13,16 +9,16 @@ h1 {
 }
 
 p {
-  color: #29386D;
+  color: #black;
 }
 
 .main-content {
-  background-color: #29386D;
+  background-color: #black;
   padding: 20px;
 }
 
 .heading {
-  padding: 100px auto;
+  padding: 20px auto;
   margin: 60px;
   text-align: center;
   background-color: Black;
@@ -37,7 +33,7 @@ p {
   padding: 60px;
   border: 10px yellow;
   background-color: yellow;
-  text-align: left;
+  text-align: center;
 }
 
 .square2 {
@@ -53,7 +49,7 @@ p {
   padding: 60px;
   border: 10px red;
   background-color: red;
-  text-align: right;
+  text-align: center;
 }
 
 .subheading p {
@@ -64,15 +60,11 @@ p {
   margin: 60px;
   padding: 60px;
   background-color: White;
-  background-image: square；
+  background-image: linear-gradient(blue, white)；
 }
 
 h1 {
-<<<<<<< HEAD
-=======
-  text-shadow: 1px 1px 1px black;
->>>>>>> 8765ce496fb2e6f24f277db7c025af0b7cd30509
-  text-align: center;
+  text-shadow: 1px 1px 3px black;
 }
 
 
