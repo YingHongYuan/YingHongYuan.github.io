@@ -25,13 +25,14 @@ function setup(){
 
 
     background(0, 255,0,120);
+}
 
 //draw race car wheels
-  fill(0);
+  fill(0);{
   ellipse(60,350,20,20);
   ellipse(90,350,20,20);
 }
 
 if (false && true){
   console.log("truth");
-}
+  }
