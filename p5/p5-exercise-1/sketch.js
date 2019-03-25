@@ -8,13 +8,13 @@ function setup(){
   strokeWeight(5);
   fill(40,50,250);
   rect(mouseX,mouseY,50,30);
+}
+
+  function draw() {
+    background(0, 255,0);
 
 //draw race car wheels
   fill(0);
   ellipse(60,350,20,20);
   ellipse(90,350,20,20);
-}
-
-function draw() {
-
 }
