@@ -10,7 +10,7 @@ function setup(){
       carX = -50
   } else {
     //carX = carX + 3;
-    carX + =3；
+    carX + = 3；
   }
 
 // draw race car body
