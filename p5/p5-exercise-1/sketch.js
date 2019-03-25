@@ -11,7 +11,9 @@ function setup(){
 }
 
   function draw() {
-    background(0, 255,0);
+    background(0, 255,0,120);
+
+    carX = carX + 1;
 
 //draw race car wheels
   fill(0);
