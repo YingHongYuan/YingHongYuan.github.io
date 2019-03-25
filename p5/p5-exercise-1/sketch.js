@@ -1,6 +1,6 @@
 function setup(){
   createCanvas(500,500)
-  background(0, 255);
+  background(100);
   console.log('sup internet!!!!!=)'')
 }
 
