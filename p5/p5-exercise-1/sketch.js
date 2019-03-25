@@ -6,7 +6,7 @@ function setup(){
    if(frameCount > 180) {
   vroom.freq(carX);
 
-  if （carX > 500) {
+  if(carX > 500) {
       carX = -50
   } else {
     //carX = carX + 3;
