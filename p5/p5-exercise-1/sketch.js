@@ -3,7 +3,7 @@ function setup(){
   background(0,250,0);
 
 
-   If(frameCount > 180) {
+   if(frameCount > 180) {
   vroom.freq(carX);
 
   if （carX > 500) {
