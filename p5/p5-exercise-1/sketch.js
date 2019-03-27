@@ -6,6 +6,9 @@ function setup(){
    if(frameCount > 180) {
   vroom.freq(carX);
 
+  if(mouseIsPressed && mouseX > 0 && mouseX < 50 && mouseY > 0 && mouseY < 50) {
+    RaceStarted = true;
+  }
   if(carX > 500) {
       carX = -50
   } else {
