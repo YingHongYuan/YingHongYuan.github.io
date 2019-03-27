@@ -1,6 +1,6 @@
 function setup(){
   createCanvas(500,500);
-  background(0,250,0);
+  background(0,250,300);
 
 
    if(frameCount > 180) {
