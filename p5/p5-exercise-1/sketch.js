@@ -10,10 +10,6 @@ function setup() {
 }
 
 function draw() {
+  
   line(253, 256, mouseX, mouseY);
-  for (let x=0; x < width; x++) {
-    let noiseVal = noise((mouseX+x)*noiseScale, mouseY*noiseScale);
-    stroke(noiseVal*255);
-    line(x, mouseY+noiseVal*80, x, height);
-  }
 }
