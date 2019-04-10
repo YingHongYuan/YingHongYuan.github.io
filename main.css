@@ -1,11 +1,60 @@
 body {
-  margin: 30px auto;
-  max-width: 1000px;
-  font-family: "Helvetica", "Arial", sans-serif;
-  line-height: 1.5;
-  padding: 30px 20px;
+  max-width: 800px;
+  margin: 50px auto 200px auto;
+  color: #dddddd;
 }
 
 h1 {
-  padding: 20px 0px 10px 0px;
+  color: pink;
 }
+
+p {
+  color: #dddddd;
+}
+
+.main-content {
+  background-color: #333333;
+  padding: 20px;
+}
+
+.heading {
+  padding: 100px auto;
+  margin: 60px;
+  text-align: center;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.shadow {
+  box-shadow: 10px, 10px, 10px, grey;
+}
+
+.porfolio-item {
+  margin: 60px;
+  padding: 60px;
+  border: 10px dotted #ffffff;
+  background-color: pink;
+  /* color: #333333; */
+}
+
+.subheading p {
+  font-family: "Lucida Console", monospace;
+}
+
+.subheading {
+  margin: 60px;
+  padding: 60px;
+  border: 10px dotted #ffffff;
+  background-color: purple;
+  background-image: linear-gradient(blue, white)；
+}
+
+h1 {
+  text-shadow: 1px 1px 3px white;
+}
+
+
+#toggle-text {
+  color: red;
