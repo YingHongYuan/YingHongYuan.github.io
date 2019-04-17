@@ -1,60 +1,78 @@
+
 body {
-  max-width: 800px;
-  margin: 50px auto 200px auto;
-  color: #dddddd;
+  background-image: url("6ikh.gif");
+  max-width: 500px;
+  margin: 50px auto 50px auto;
+  color: #black;
+  style="front-size":50px;"arial"
 }
 
 h1 {
-  color: pink;
-}
-
-p {
-  color: #dddddd;
-}
-
-.main-content {
-  background-color: #333333;
-  padding: 20px;
+  color: green;
 }
 
 .heading {
-  padding: 100px auto;
+  padding: 20px auto;
   margin: 60px;
   text-align: center;
-}
+  border:solid 10px #000;
+  background-color: white;
 
-.blue {
-  background-color: blue;
 }
 
 .shadow {
   box-shadow: 10px, 10px, 10px, grey;
 }
 
-.porfolio-item {
-  margin: 60px;
-  padding: 60px;
-  border: 10px dotted #ffffff;
-  background-color: pink;
-  /* color: #333333; */
+.p1{
+  color:red;
 }
 
-.subheading p {
-  font-family: "Lucida Console", monospace;
+.Question1 {
+  margin: 5px;
+  padding: 5px;
+  border: 5px;
+  background-color: White;
+  border:solid 10px #000;
+  text-align: center;
 }
 
-.subheading {
-  margin: 60px;
-  padding: 60px;
-  border: 10px dotted #ffffff;
-  background-color: purple;
-  background-image: linear-gradient(blue, white)；
+.Question2 {
+  margin: 5px;
+  padding: 5px;
+  border: 5px;
+  background-color: White;
+  border:solid 10px #000;
+  text-align: center;
+}
+
+.Question3 {
+  margin: 5px;
+  padding: 5px;
+  border: 5px red;
+  background-color: white;
+  border:solid 10px #000;
+  text-align: center;
+}
+
+.Question4 {
+  margin: 5px;
+  padding: 5px;
+  border: 5px red;
+  background-color: white;
+  border:solid 10px #000;
+  text-align: center;
+}
+
+.Question5 {
+  margin: 5px;
+  padding: 5px;
+  border: 5px red;
+  background-color: white;
+  border:solid 10px #000;
+  text-align: center;
 }
 
 h1 {
-  text-shadow: 1px 1px 3px white;
+  text-shadow: 1px 1px 1px black;
 }
-
-
-#toggle-text {
-  color: red;
