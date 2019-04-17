@@ -28,21 +28,19 @@ h1 {
   color:red;
 }
 
-.Question1 {
+.Artiststatement1 {
   margin: 5px;
   padding: 5px;
   border: 5px;
   background-color: White;
-  border:solid 10px #000;
   text-align: center;
 }
 
-.Question2 {
+.Artiststatement2 {
   margin: 5px;
   padding: 5px;
   border: 5px;
   background-color: White;
-  border:solid 10px #000;
   text-align: center;
 }
 
