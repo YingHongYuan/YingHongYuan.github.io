@@ -1,21 +1,18 @@
-
 body {
-  background-image: url("6ikh.gif");
+  background-image: url("");
   max-width: 1200px;
   margin: 50px auto 50px auto;
   color: #black;
-  style="front-size":50px;"arial"
 }
 
 h1 {
-  color: green;
+  color: Black;
 }
 
 .heading {
   padding: 20px auto;
   margin: 60px;
   text-align: center;
-  border:solid 10px #000;
   background-color: white;
 
 }
@@ -24,7 +21,7 @@ h1 {
   box-shadow: 10px, 10px, 10px, grey;
 }
 
-.p1{
+.p{
   color:red;
 }
 
@@ -33,7 +30,6 @@ h1 {
   padding: 5px;
   border: 5px;
   background-color: White;
-  text-align: center;
 }
 
 .Artiststatement2 {
@@ -42,35 +38,4 @@ h1 {
   border: 5px;
   background-color: White;
   text-align: center;
-}
-
-.Question3 {
-  margin: 5px;
-  padding: 5px;
-  border: 5px red;
-  background-color: white;
-  border:solid 10px #000;
-  text-align: center;
-}
-
-.Question4 {
-  margin: 5px;
-  padding: 5px;
-  border: 5px red;
-  background-color: white;
-  border:solid 10px #000;
-  text-align: center;
-}
-
-.Question5 {
-  margin: 5px;
-  padding: 5px;
-  border: 5px red;
-  background-color: white;
-  border:solid 10px #000;
-  text-align: center;
-}
-
-h1 {
-  text-shadow: 1px 1px 1px black;
 }
