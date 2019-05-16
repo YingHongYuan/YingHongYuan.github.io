@@ -32,9 +32,20 @@ h1 {
   background-color: White;
 }
 
-.Artistportfolio {
+.Artistportfolio1 {
   margin: 5px;
   padding: 5px;
-  border: 5px;
+  background-color: White;
+}
+
+.Artistportfolio2 {
+  margin: 5px;
+  padding: 5px;
+  background-color: White;
+}
+
+.Artistportfolio3 {
+  margin: 5px;
+  padding: 5px;
   background-color: White;
 }
