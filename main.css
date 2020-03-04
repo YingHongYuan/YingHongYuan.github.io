@@ -28,8 +28,8 @@ h1 {
 .Artiststatement {
   margin: 5px;
   padding: 5px;
-  border: 5px;
-  border:solid 10px #000;
+  border: 0px;
+  border:;
   background-color: white;
 }
 
