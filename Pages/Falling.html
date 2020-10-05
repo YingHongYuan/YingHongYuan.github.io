@@ -1,26 +1,75 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <title>Art 107 - Project 1 - YingHong Yuan</title>
-    <meta name="description" content="Art 107 - Project 1 - YingHong Yuan<">
-    <script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
-  </head>
-  <body>
-    <a-scene background="color: black">
 
-      <a-assets>
+<head>
+  <meta charset="utf-8">
+  <title>Art107-Preject1-Falling</title>
+  <meta name="description" content="Art 107 - Project 1 - YingHong Yuan<">
+  <script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
+  <script src="https://unpkg.com/aframe-text-geometry-component@0.5.1/dist/aframe-text-geometry-component.min.js"></script>
+  <script src="https://unpkg.com/aframe-environment-component@1.1.0/dist/aframe-environment-component.min.js"></script>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+</head>
+
+  <style>
+  body{
+    font-family: "Times", sans-serif;
+  }
+
+  .container-left{
+    width:35%;
+    margin-left:10%;
+    font-size: 30px;
+    color: black;
+    text-align: left;
+    float:left;
+    line-height:1.5;
+  }
+
+  .title{
+    font-size:40px;
+    font-style: bold;
+    color: black;
+    width:100%;
+    text-align: center;
+  }
+  .glitch-embed-wrap{
+    width:40%;
+    margin-right:5%;
+
+  }
+  </style>
+
+<body>
 
 
-  </a-assets>
-      <a-assets>
-    <a-asset-item id="hand" src="https://cdn.glitch.com/42f68ff7-41f3-4727-90ba-d2cf386c1027%2Fhand.glb?v=1601882611036"></a-asset-item>
-  </a-assets>
-  <a-entity gltf-model="#hand" position ="0 0 -2.893" rotation="-65 180 360" scale="0.1 0.1 0.1" shadow></a-entity>
+  <div class="title">
+  <h1>
+    Falling
+  </h1>
 
-   <a-entity rotation="0 0 0" animation="property: rotation; to: 20 0 20; loop: true; dur: 10000">
-      <a-plane src="https://cdn.glitch.com/42f68ff7-41f3-4727-90ba-d2cf386c1027%2Focean.jpg?v=1601880651513" position="0 0 -4" rotation="-90 0 0" width="40" height="40" color="#7BC8A4" shadow sound="src: url(https://cdn.glitch.com/42f68ff7-41f3-4727-90ba-d2cf386c1027%2Fwave.m4a?v=1601884779638);  loop: true; autoplay: true"></a-plane>
-      </a-entity>
-    </a-scene>
-  </body>
+  <div class="glitch-embed-wrap" style="height: 600px; width: 600px; float:left; margin-left:30px">
+    <iframe
+      src="https://chartreuse-lavender-course.glitch.me/"
+      title="foregoing-juicy-medusaceratops on Glitch"
+      allow="geolocation; microphone; camera; midi; vr; encrypted-media"
+      style="height: 400px; width: 600px;">
+    </iframe>
+  </div>
+
+</div>
+  <div class="container-center">
+  <p>Artist: YingHong Yuan</p>
+  <p>Medium: digital media (maya, blender, A-frame, three.js)</p>
+  <p>Date: 10.05.2020 </p>
+  <p>Artist Statement: This piece reflects the emotion of immigrants who are separated from their family members because of their visa restrictions. They are trapped in a place where they could hear the voice from their family, however, they could not get out. The floating texts are quotes from immigration family as they deeply miss their family yet unable to see them for a long time. Borders between countries have formed this invisible wall like a cage that restricts people’s freedom and keeps families from reuniting. </p>
+  <p>https://chartreuse-lavender-course.glitch.me/</p>
+</div>
+
+
+
+
+</body>
+
+
 </html>
