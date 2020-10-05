@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Art 107 - Project 1 - YingHong Yuan</title>
+    <meta name="description" content="Art 107 - Project 1 - YingHong Yuan<">
+    <script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
+  </head>
+  <body>
+    <a-scene background="color: black">
+
+      <a-assets>
+
+
+  </a-assets>
+      <a-assets>
+    <a-asset-item id="hand" src="https://cdn.glitch.com/42f68ff7-41f3-4727-90ba-d2cf386c1027%2Fhand.glb?v=1601882611036"></a-asset-item>
+  </a-assets>
+  <a-entity gltf-model="#hand" position ="0 0 -2.893" rotation="-65 180 360" scale="0.1 0.1 0.1" shadow></a-entity>
+
+   <a-entity rotation="0 0 0" animation="property: rotation; to: 20 0 20; loop: true; dur: 10000">
+      <a-plane src="https://cdn.glitch.com/42f68ff7-41f3-4727-90ba-d2cf386c1027%2Focean.jpg?v=1601880651513" position="0 0 -4" rotation="-90 0 0" width="40" height="40" color="#7BC8A4" shadow sound="src: url(https://cdn.glitch.com/42f68ff7-41f3-4727-90ba-d2cf386c1027%2Fwave.m4a?v=1601884779638);  loop: true; autoplay: true"></a-plane>
+      </a-entity>
+    </a-scene>
+  </body>
+</html>
