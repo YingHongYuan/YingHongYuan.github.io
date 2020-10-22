@@ -1,11 +1,13 @@
 var video;
 
+
 function setup() {
-  createCanvas(520, 400);
+  createCanvas(0, 0);
   background(51);
   video = createCapture(VIDEO);
+  video.size(320,240);
 }
 
 function draw() {
-  background(51);
+
 }
