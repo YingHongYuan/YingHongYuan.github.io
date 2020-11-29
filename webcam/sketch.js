@@ -8,7 +8,7 @@ function setup() {
 
   background(0);
   video = createCapture(VIDEO, videoLoaded);
-  video.size(320,240);
+  video.size(280,240);
   video.parent("webcam");
 
   console.log(video);
